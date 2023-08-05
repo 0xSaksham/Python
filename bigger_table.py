@@ -20,4 +20,6 @@ print("I would love to invite: " + guests[4] + " for Dinner \n")
 print("I would love to invite: " + guests[5] + " for Dinner \n")
 
 
+# 3.9 Dinner Guests
 
+print(len(guests))
